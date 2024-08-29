@@ -139,6 +139,8 @@ function App() {
                   </td>
                   <td>{book.Lancamento}</td>
                   <td>
+
+
                     <button className="delete-btn" onClick={() => deleteBook(book.id)}>Apagar</button>
                     {
                       !edit ? (

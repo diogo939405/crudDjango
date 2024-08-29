@@ -59,10 +59,9 @@
 .adicionar input:focus {
   background-color: #A5D6A7;
   border: none;
-  color: rgb(63, 61, 61);
+  color: rgb(255, 255, 255);
   font-size: 1rem;
-  font-weight: 600;
-
+  font-weight: bold;
 }
 
 .styled-button {
